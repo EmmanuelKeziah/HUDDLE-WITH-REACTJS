@@ -131,5 +131,9 @@ huddle-with-reactjs/
 
 <section>
   <h2>📄 License</h2>
-  <p>This project is licensed under the <b>MIT License</b>.</p>
+  <p>
+    MIT License – free to use, modify, and distribute this project.  
+    See the <a href="./LICENSE">LICENSE</a> file for full details.
+  </p>
 </section>
+
