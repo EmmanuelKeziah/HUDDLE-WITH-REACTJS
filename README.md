@@ -89,7 +89,6 @@ huddle-with-reactjs/
   <ul>
     <li><b>Navbar</b> – top navigation links</li>
     <li><b>Hero</b> – main banner section with CTA</li>
-    <li><b>Features</b> – reusable feature card components</li>
     <li><b>Footer</b> – social links and additional info</li>
   </ul>
 </section>
