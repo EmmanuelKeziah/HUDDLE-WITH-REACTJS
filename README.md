@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  # Huddle Landing Page (React + Tailwind)  
+  Huddle Landing Page (React + Tailwind)  
   This is my improved version of the Huddle landing page, built with React and styled with Tailwind CSS.  
   👉 The first version (built with plain HTML & CSS) can be found here: 
   <a href="https://github.com/EmmanuelKeziah/HUDDLE-HTML-CSS">Huddle with HTML/CSS</a>.
