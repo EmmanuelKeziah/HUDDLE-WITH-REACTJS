@@ -65,6 +65,7 @@ cd HUDDLE-WITH-REACTJS
 npm install
 npm run dev
 ```
+
 <hr/>
 
 <section>
@@ -135,4 +136,3 @@ huddle-with-reactjs/
     See the <a href="./LICENSE">LICENSE</a> file for full details.
   </p>
 </section>
-
