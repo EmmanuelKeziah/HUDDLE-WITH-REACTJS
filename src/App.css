@@ -4,6 +4,6 @@
   background-image: url("./assets/images/desktopLogo.svg");
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  min-height: 100vh;
   width: 100%;
 }

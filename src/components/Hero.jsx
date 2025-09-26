@@ -4,8 +4,8 @@ import mockups from "../assets/images/mockups.svg";
 const Hero = () => {
   return (
     <section className="flex flex-col lg:flex-row justify-between gap-2 lg:py-8 ">
-<div className="bg-white rounded-xl overflow-hidden max-h-[70vh] w-full lg:w-[600px] flex justify-center shadow-md">
-<img
+      <div className="rounded-xl overflow-hidden max-h-[70vh] w-full lg:w-[600px] flex justify-center shadow-md">
+        <img
           src={mockups}
           alt="illustration-mockups"
           className=" w-full h-auto max-h-[60vh]"
