@@ -5,21 +5,21 @@ import instagram from "../assets/images/instagram.svg";
 
 const Footer = () => {
   return (
-    <section className="flex justify-end items-center">
+    <section className="flex justify-end items-center gap-2 mb-2">
       <img
         src={facebook}
         alt="facebook-logo"
-        className="w-[50px] mx-2 my-1 filter brightness-0 invert"
+        className="w-10 h-10 filter brightness-0 invert"
       />
       <img
         src={twitter}
         alt="twitter-logo"
-        className="w-[50px] mx-2 my-1 filter brightness-0 invert"
+        className="w-10 h-10 filter brightness-0 invert"
       />
       <img
         src={instagram}
         alt="instagram-logo"
-        className="w-[50px] mx-2 my-1 filter brightness-0 invert"
+        className="w-10 h-10 filter brightness-0 invert"
       />
     </section>
   );
