@@ -34,16 +34,21 @@
 <hr/>
 
 <h2>🧭 Live Demo</h2>
-<!-- <p>
-  🔗 <a href="https://huddle-with-reactjs.vercel.app" target="_blank">View Live Site</a>
-</p> -->
+<p>
+  🔗 <a href="https://huddle-with-reactjs.vercel.app/" target="_blank">View Live Site</a>
+</p>
 
 <hr/>
 
-<h2>📷 Preview</h2>
-<!-- <p>
-  <img src="./screenshots/huddle-react.png" alt="Huddle Preview" />
-</p> -->
+<h2>📷 Mobile Preview</h2>
+<p>
+  <img src="./src/assets/images/huddleReactforMobile.jpg" alt="Huddle Mobile Preview" />
+</p>
+
+<h2>📷 Desktop Preview</h2>
+<p>
+  <img src="./src/assets/images/huddleReactforLargeScreens.jpg" alt="Huddle For Large Screens Preview" />
+</p>
 
 <hr/>
 
