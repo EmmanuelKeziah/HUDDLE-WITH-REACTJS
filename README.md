@@ -54,9 +54,34 @@
 
 <h2>🛠️ Built With</h2>
 <ul>
-  <li>React</li>
-  <li>JSX</li>
-  <li>CSS</li>
+  <li>React.js: For building the UI components and managing state (like your useState toggle).
+  </li>
+    <li>Tailwind CSS: For styling and responsive design utilities.
+  </li>
+    <li>Vite: React project bundler and development server.
+  </li>
+  <li>Git & GitHub: For version control and remote repository hosting.
+  </li>
+  <li>Vercel (or Netlify): or deployment and hosting.
+  </li>
+</ul>
+
+<h2>🎨 Assets & Tools
+</h2>
+<ul>
+<li>React Icons (lucide-react / react-icons): For the hamburger menu and close icons.
+</li>
+<li>Google Fonts (like Poppins or Open Sans): For typography.
+</li>
+</ul>
+
+<h2>👩‍💻 Dev Tools
+</h2>
+<ul>
+<li>Browser DevTools / Responsive Viewer Extension: For checking responsiveness and debugging layouts.
+</li>
+<li>VS Code: IDE for writing and managing the code.
+</li>
 </ul>
 
 <hr/>
